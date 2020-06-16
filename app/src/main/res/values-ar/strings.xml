@@ -3,4 +3,6 @@
     <string name="app_name">تغيير اللغة</string>
     <string name="Arabic">عربي</string>
     <string name="English">أنجليزي</string>
+    <string name="Next_Page">الصفحة التالية</string>
+    <string name="Home_Page">الصفحة الرئيسية</string>
 </resources>

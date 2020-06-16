@@ -29,4 +29,11 @@
         android:text="@string/English"
         android:id="@+id/BTN_en"
         android:layout_height="wrap_content" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/BTN_an2_GoNext"
+        android:text="@string/Next_Page"
+        android:textSize="25dp"
+        android:textColor="@color/colorPrimary"/>
 </LinearLayout>
